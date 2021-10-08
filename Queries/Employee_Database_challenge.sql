@@ -73,7 +73,7 @@ FROM unique_titles;
 
 -- Number of employees eligible for mentorship.
 
-SELECT count (emp_no) AS eligible_mentees
+SELECT COUNT (emp_no) AS eligible_mentees
 FROM mentorship_eligibilty;
 
 
