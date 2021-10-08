@@ -23,7 +23,7 @@ Pewlett Hackard currently stores their employee data into 6 different csv files.
 
 3. Retiring employees count as per their titles.
 
-<img width="450" alt="Screen Shot 2021-10-07 at 4 08 09 PM" src="https://user-images.githubusercontent.com/88418201/136474215-9d30695f-134f-4377-8a35-48c4047a61e1.png">
+<img width="150" alt="Screen Shot 2021-10-07 at 4 08 09 PM" src="https://user-images.githubusercontent.com/88418201/136474215-9d30695f-134f-4377-8a35-48c4047a61e1.png">
 
 4. There are 1,549 employees born in 1965 who are eligible for mentorship program.
 
