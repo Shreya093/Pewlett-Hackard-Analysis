@@ -23,7 +23,7 @@ Pewlett Hackard currently stores their employee data into 6 different csv files.
 
 3. Retiring employees count as per their titles.
 
-<img width="700" alt="Screen Shot 2021-10-07 at 4 08 09 PM" src="https://user-images.githubusercontent.com/88418201/136474215-9d30695f-134f-4377-8a35-48c4047a61e1.png">
+<img width="450" alt="Screen Shot 2021-10-07 at 4 08 09 PM" src="https://user-images.githubusercontent.com/88418201/136474215-9d30695f-134f-4377-8a35-48c4047a61e1.png">
 
 4. There are 1,549 employees born in 1965 who are eligible for mentorship program.
 
@@ -47,10 +47,10 @@ The below two charts compares the counts by titles of the retiring and mentor el
 
 <img width="700" alt="Screen Shot 2021-10-08 at 12 13 28 PM" src="https://user-images.githubusercontent.com/88418201/136613349-fe6607f1-8276-4baf-a0b5-992bc33c0c19.png">
 
-<img width="700" alt="Screen Shot 2021-10-08 at 12 14 52 PM" src="https://user-images.githubusercontent.com/88418201/136613485-4735c057-8777-4771-998b-dd54eebefa93.png">
+<img width="550" alt="Screen Shot 2021-10-08 at 12 14 52 PM" src="https://user-images.githubusercontent.com/88418201/136613485-4735c057-8777-4771-998b-dd54eebefa93.png">
 
 From the below to comparison we can infer that there are total of 90,398 employees who will be retiring from their titles soon from Pewlett Hackard and by creating a mentoring program only 1,549 mentees can study which significantly widens the mentor-mentee gap as there are 90,398 employees retiring and only 1,549 of them can be eligible for mentorship. Therefore, for running a successful mentorship program Pewlett Hackard can narrow down their mentorship eligibility criteria for being around age 35 when they started their current job title. In this way they can narrow down the mentor-mentee gap.
 
-<img width="700" alt="Screen Shot 2021-10-08 at 12 29 36 PM" src="https://user-images.githubusercontent.com/88418201/136615126-f0d52a53-4c3b-4fe2-af9f-c6a81411c24a.png">
+<img width="550" alt="Screen Shot 2021-10-08 at 12 29 36 PM" src="https://user-images.githubusercontent.com/88418201/136615126-f0d52a53-4c3b-4fe2-af9f-c6a81411c24a.png">
 
-<img width="700" alt="Screen Shot 2021-10-08 at 12 30 20 PM" src="https://user-images.githubusercontent.com/88418201/136615179-7d8c11a4-b4c4-484a-8ded-1b8e79add340.png">
+<img width="550" alt="Screen Shot 2021-10-08 at 12 30 20 PM" src="https://user-images.githubusercontent.com/88418201/136615179-7d8c11a4-b4c4-484a-8ded-1b8e79add340.png">
