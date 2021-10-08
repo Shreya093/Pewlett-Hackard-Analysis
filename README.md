@@ -19,7 +19,7 @@ Pewlett Hackard currently stores their employee data into 6 different csv files.
 2. Inorder to remove the duplicate list of employees we used DISTINCT ON to fetch the employees with the most recent job title to create a unique list of retiring employees.
     * There are 90,398 employees who are likely to retire soon.
 
-<img width="645" alt="Screen Shot 2021-10-07 at 3 57 17 PM" src="https://user-images.githubusercontent.com/88418201/136473460-aa58219b-c77f-4fa3-a137-00c704b5d3bf.png">
+<img width="625" alt="Screen Shot 2021-10-07 at 3 57 17 PM" src="https://user-images.githubusercontent.com/88418201/136473460-aa58219b-c77f-4fa3-a137-00c704b5d3bf.png">
 
 3. Retiring employees count as per their titles.
 
