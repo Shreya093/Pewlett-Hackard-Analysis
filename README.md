@@ -47,7 +47,7 @@ The below two charts compares the counts by titles of the retiring and mentor el
 
 <img width="700" alt="Screen Shot 2021-10-08 at 12 13 28 PM" src="https://user-images.githubusercontent.com/88418201/136613349-fe6607f1-8276-4baf-a0b5-992bc33c0c19.png">
 
-<img width="350" alt="Screen Shot 2021-10-08 at 12 14 52 PM" src="https://user-images.githubusercontent.com/88418201/136613485-4735c057-8777-4771-998b-dd54eebefa93.png">
+<img width="400" alt="Screen Shot 2021-10-08 at 12 14 52 PM" src="https://user-images.githubusercontent.com/88418201/136613485-4735c057-8777-4771-998b-dd54eebefa93.png">
 
 From the below to comparison we can infer that there are total of 90,398 employees who will be retiring from their titles soon from Pewlett Hackard and by creating a mentoring program only 1,549 mentees can study which significantly widens the mentor-mentee gap as there are 90,398 employees retiring and only 1,549 of them can be eligible for mentorship. Therefore, for running a successful mentorship program Pewlett Hackard can narrow down their mentorship eligibility criteria for being around age 35 when they started their current job title. In this way they can narrow down the mentor-mentee gap.
 
