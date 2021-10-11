@@ -45,10 +45,10 @@ SELECT DISTINCT ON (e.emp_no) e.emp_no,
 	   de.to_date,
 	   ti.title
 INTO mentorship_eligibilty
-FROM employees as e
-INNER JOIN dept_emp as de
+FROM employees AS e
+INNER JOIN dept_emp AS de
 ON (e.emp_no = de.emp_no)
-INNER JOIN titles as ti
+INNER JOIN titles AS ti
 ON (e.emp_no = ti.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 AND (ti.to_date = '9999-01-01')
@@ -69,7 +69,7 @@ ORDER BY "employee_count" DESC;
 SELECT COUNT (title) AS retiring_titles
 FROM unique_titles;
 
--- Number of employees eligible for mentorship.
+-- Number of employees eligible for mentorship(or number of mentees for the program).
 
 SELECT COUNT (emp_no) AS eligible_mentees
 FROM mentorship_eligibilty;
